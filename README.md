@@ -1,6 +1,7 @@
 Project is created by Tommi Kekomäki for Games Factory Talents 2022 Shoot 'em up challenge.
 Project is free to use for educational purposes only.
 
+Short review of the project: https://youtu.be/aFuF5dMFcTI
 
 I Wanted to add much more mechanics to the game buuut i abolutely ran out of time.
 Many of the features are made in blueprints, especially abilities because they are made using GAS. Base-classes are C++ tho.
@@ -26,6 +27,8 @@ Icon made by: Lorc
 Changes: Icons were originally black/white, i added some colour.
 
 Models, assets and visual effects from Unreal Engine Market.
+
+
 
 Special thanks to...
 
