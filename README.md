@@ -29,14 +29,3 @@ Changes: Icons were originally black/white, i added some colour.
 Models, assets and visual effects from Unreal Engine Market.
 
 
-
-Special thanks to...
-
-Dan Tranek (GAS)
-Stephen Ulibarri (C++)
-SneakyKittyGameDev (C++)
-LeafBranGames (NavLink)
-KaosSpectrum (GAS)
-
-..For code examples and help.
-
